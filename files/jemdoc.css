@@ -1,44 +1,5 @@
 /* Default css file for jemdoc. */
 
-/* Menu */
-
-.menu {
-	/* background-color: #527bbd; */
-	background-color: #224b8d;
-    left: 0;
-    top: 0;
-    width: 100%;
-	padding: 12px 0px;
-	text-align: center;
-	position: fixed;
-	z-index: 100;
-	width: 100%
-}
-
-.menu a {
-	font-size: 110%;
-	/*font-weight: bolder;*/
-	padding: 0.25ex 1.5ex;
-	color: rgb(240,240,240);
-	text-decoration: none;
-	transition: .2s;
-}
-
-.menu a:link {
-	color: rgb(240,240,240);
-	/*color: #9e9e9e;*/
-}
-
-.menu a:visited {
-	color: rgb(240,240,240);
-	/*color: #9e9e9e;*/
-}
-
-.menu a:hover, .menu a:active {
-    color: rgb(160,160,160);
-    /*color: #ffffff;*/
-	text-decoration: none;
-}
 
 /* container */
 
