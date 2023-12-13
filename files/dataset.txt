@@ -1,0 +1,6 @@
+We have created a dataset AIRPOSE used for aircraft pose estimation, which includes 200k synthetic images and 10k real images with annotations of bounding boxs and keypoints. 
+There are in total 12 keypoints defined for aircrafts. The synthetic images were generated using 4 types of aircrafts(Boeing 787, 747; Airbus 320, 330) in total 15 different liveries under 18 different camera positions and 7 different climate conditions (clear skies, scattered cloud, broken cloud, over cast, rain, snow, storm) in 115 different airports with various lighting conditions. 
+All of the 3D aircrafts are modeled realistically according to the real world aircrafts and each airport is also modeled based on the corresponding real-world airport. 
+Both synthetic images and real images are set to the size of 1920x1080. 
+We use MSFS2020 and Renderdoc for simulation and rendering analysis. 
+The dataset is currently private for project purpose.
